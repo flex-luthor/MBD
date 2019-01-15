@@ -1,0 +1,18 @@
+#apppage .gradient {
+background: #1A2980;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #26D0CE, #1A29aa);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #26D0CE, #1A29aa); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+#apppage .view {
+  background-image: url('https://mdbootstrap.com/img/Photos/Others/architecture.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  height: 100vh;
+}
+
+#apppage h6 {
+  line-height: 1.7;
+}
